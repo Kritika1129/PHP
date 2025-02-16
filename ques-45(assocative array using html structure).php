@@ -65,3 +65,5 @@ $percentage = ($totalMarks / ($totalSubjects * 100)) * 100;
 
 </body>
 </html>
+echo"this program is written by kritika erp-067";
+?>
