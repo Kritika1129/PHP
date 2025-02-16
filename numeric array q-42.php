@@ -19,5 +19,6 @@
     {
         echo "Value is $value\n";
     }
+echo"This program is written by KRITIKA ERP-067";
     
 ?>
